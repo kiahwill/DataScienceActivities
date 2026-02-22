@@ -20,7 +20,7 @@ The analysis provides insights into which algorithm best captures passenger beha
 
 ## Dataset
 
-- **Dataset:** Airline Passenger Satisfaction (Kaggle)  
+- **Dataset:** [Kaggle] (https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction)
 - **Size:** 103,904 rows × 25 columns  
 - **Target Column:** `satisfaction`
 
